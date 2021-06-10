@@ -30,8 +30,29 @@ h1 {
 }
 
 #navbar {
-  position: fixed;
-  width: 100%;
-  top: 0;
-  left: 0;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    left: 0;
+}
+
+li {
+    display: inline;
+    float: left;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: gray;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 11px 14px;
+    text-decoration: none;
 }
