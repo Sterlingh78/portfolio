@@ -18,7 +18,7 @@ h1 {
 
 #centered-welcome {
     position: absolute;
-    color: white;
+    color: red;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
@@ -30,6 +30,10 @@ h1 {
     top: 0;
     left: 0;
     margin-bottom: 50px;
+}
+
+#projects {
+    text-align: center;
 }
 
 li {
