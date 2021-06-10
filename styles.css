@@ -14,13 +14,11 @@ h1 {
 }
 
 #welcome-section {
-    position: relative;
     text-align: center;
     color: white;
     height: 100vh;
     background-image: url(pexels.jpg);
     background-size: cover;
-    padding-top: 60px;
 }
 
 #centered-welcome {
